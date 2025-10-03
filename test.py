@@ -1,1 +1,1 @@
-print('Hello Dosto, This is V8..Platform')
+printf('Hello Dosto, This is V8..Platform')
